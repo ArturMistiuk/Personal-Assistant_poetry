@@ -5,15 +5,6 @@ It is exclusively based on the command line interface.
 
 The following libraries were used: **autopep8,  beautifulsoup4, bs4, certifi, charset-normalizer, idna, prettytable, prompt-toolkit, pycodestyle,  requests soupsieve, urllib3, wcwidth**.
 
-
-### Installation
-
-Download package, unpack it and use next command to install it from unpacked folder:
-
-```bush
-pip install -e .
-```
-
 ### Calling
 
 Launch command line and use command **call-assistant**
